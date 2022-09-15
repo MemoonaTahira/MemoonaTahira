@@ -3,7 +3,7 @@
 <!--
 **MemoonaTahira/MemoonaTahira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am Memoona Tahira! I am a freelance Machine Learning engineer. I am a Computer Science Graduate, and I researched in the domain of human psychology and Computer Vision. I like learning new things, especially how to automate stuff so I don't have to do it manually, and also to keep things updated on their own (for as long as possible).🧶
+I am Memoona Tahira! I am a freelance Machine Learning engineer. I am a Computer Science Graduate, and I researched in the domain of human psychology and Computer Vision. I like learning new things, especially how to automate coding tasks so I don't have to do it manually, and also to keep things updated on their own (for as long as possible).🧶
 
 - 🔭 I’m currently working on sound classification.
 - 🌱 I’m currently learning with MLZoomcamp (a 4 months course by Data Talks). 
