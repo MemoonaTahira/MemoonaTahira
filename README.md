@@ -10,7 +10,5 @@ I am Memoona Tahira! I am a freelance Machine Learning engineer. I am a Computer
 - 🐌 I am slowly mastering docker, aws, streamlit, git, unit testing and pydoc documentation.
 - 👯 I am looking to collaborate on Deep Learning + MLOps projects.
 - 📫 Reach out to me at: https://www.linkedin.com/in/memoona-tahira/
-- 📧 Or drop me an email at: memoona.freelance@gmail.com
-- 💬 Or commission freelance work via Upwork: https://www.upwork.com/freelancers/~01d0d58a606120d20f 
 - 🌟 My interests: Computer Vision and Deep Learning, especially for mobile phone applications. 
 - ⚡ Fun fact: I love to read long posts and skim through code. I love well-documented code. 
