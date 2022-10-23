@@ -7,7 +7,7 @@ I am Memoona Tahira! I am a freelance Machine Learning engineer. I am a Computer
 
 - 🔭 I have explored and created with **python**, **bash**, **tensorflow**, **tflite**, **pytorch**, **torchscript**, **docker**, **GCP**, **git**, and **pydoc documentation** as a deep learning tech stack. 
 - 👀 Other languages in order of familiarity: **C++**, **MATLAB**, **LaTeX**, **VBA**, **R**
-- 🌱 I am currently learning with MLZoomcamp (a 4 months course by Data Talks). 
+- 🌱 I am currently learning with MLZoomcamp (a 4 months MLE course by Data Talks). 
 - 🐌 I am slowly mastering Docker, AWS, Streamlit, git and unit testing.
 - ⚡ Fun fact: I love to read long posts and skim through code. I love well-documented code.  
 - 🌟 My interests: Computer Vision and Deep Learning, especially for mobile phone applications. 
