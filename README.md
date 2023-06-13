@@ -12,7 +12,7 @@ I am Memoona Tahira! I am a freelance Machine Learning engineer. I am a Computer
 - ⚡ Fun fact: I love to read long posts and skim through code. I love well-documented code.  
 - 🎯 My interests: Computer Vision and Deep Learning, especially for mobile phone applications. 
 - 🌟 I am looking to collaborate on Deep Learning + MLOps projects.
-<!-- - 📫 Reach out to me on my LinkedIn profile [here](https://www.linkedin.com/in/memoonatahira). -->
+- 📫 Reach out to me on my LinkedIn profile [here](https://www.linkedin.com/in/memoonatahira).
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memoonatahira&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
